@@ -10,11 +10,12 @@
 - 31(Dictionaries)
 - 32 (Working with Data Files)
 # Proposal idea:
-This is meant to be a Data Analysis project presenting the student breakdown by ethnic and gender demographics from the 2020-2021 school years up to the 2024-2025 school year. The data will be used to generate a webpage that displays (1) the sorted data distinguishing gender statistics from ethnic statistics for each year (2) an option by which users will be able to access a chart displaying demographic data in each school year either according to race or gender. 
+This is meant to be a Data Analysis project presenting the student breakdown by ethnic and gender demographics from the 2020-2021 school years up to the 2024-2025 school year. The data will be used to generate a webpage that displays (1) the sorted data distinguishing gender statistics from ethnic statistics for each year (2) an option by which users will be able to access a chart displaying demographic data in each school year either according to race or gender. At the top of each webpage will be a short (primitively) generated and randomized blurb based on a text describing school demographic breakdowns. 
 
 # Description per Skill:
-The turtle skill will be used 
+Data structures will be incorporated via 
 
+The dictionary and list skills will be used both for data grouping and in order to generate our blurbs. 
 
-The Dictionary 
-The slicing skill will be used while "cleaning" the original .csv file before it is used to produce a desired output. 
+# New Tool
+Our chosen new tool will be the matplotlib library. 
