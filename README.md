@@ -15,6 +15,7 @@ This is meant to be a Data Analysis project presenting the student breakdown by 
 
 # Description per Skill:
 Skill 10: Work with data structures will be in the form of lists and dictionaries that will then be manipulated to produce set outputs. 
+
 Skill 27: The HTML interface will be used for the presentation of the processed output. 
 Skill 28: The CSS styling interface will be used in order to enhance the presentation of the HTML provided output with the goal of it being mroe stylistically appealing. 
 Skill 29: The string skill will be used as the original text string (read from the .txt file) is processed into a dictionary in a manner appropriate for producing a generated blurb. 
